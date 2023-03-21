@@ -3,7 +3,8 @@ Mino projet kercode
 
 KARL/MAITE/MELISSA/NICOLAS
 
-      Nous partirons des travaux proposés par Ulrich M. dans son cours MVC qui traite de l'architecture MVC avec l'objet. Les ressources sont (re)données ci-dessous.
+      Nous partirons des travaux proposés par Ulrich M. dans son cours MVC qui traite de l'architecture MVC avec l'objet.
+      Les ressources sont (re)données ci-dessous.
 
       Le projet initial propose un backend pour la lecture et la modification des profils d'utilisateurs enregistrés dans une base de données.
 
@@ -18,12 +19,12 @@ Nous allons faire évoluer ce projet pour qu'il permette :
 
 - Vos missions :
 
-   1. reprendre le modèle de la base de données afin qu'il autorise une séparation fonctionnelle entre création de compte et remplissage du profil. 
+   I. reprendre le modèle de la base de données afin qu'il autorise une séparation fonctionnelle entre création de compte et remplissage du profil. 
       De cette manière,i l n'y aura pas d'obligation à renseigner son profil en même temps que la création de son compte (c'est plus confortable d'un point de vue UX)
-   2. adapter le (ou les) modèle(s) en essayant de garder la connection sur la base de données ouverte sur la durée du script (cycle de vie de l'objet PDO)
-   3. faire une petite arborescence des pages
-   4. déduire de l'arborescence les routes et les vues puis les implémenter
-   5. assembler et tester
+   II. adapter le (ou les) modèle(s) en essayant de garder la connection sur la base de données ouverte sur la durée du script (cycle de vie de l'objet PDO)
+   III. faire une petite arborescence des pages
+   IV. déduire de l'arborescence les routes et les vues puis les implémenter
+   V. assembler et tester
 
 
 - L'ensemble du travail devra être réalisé :
