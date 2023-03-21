@@ -42,10 +42,13 @@ Nous allons faire évoluer ce projet pour qu'il permette :
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- MODIFIER LE FICHIER DB_SETUP.PHP (supprimer les lignes  13-27 / 40-56)
- SUPPRIMER LE FICHIER USER.PHP
+                                                                  PARTIE PRATIQUE
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
  
+ *MODIFIER LE FICHIER DB_SETUP.PHP (supprimer les lignes  13-27 / 40-56)
+ SUPPRIMER LE FICHIER USER.PHP*
+
+
  Reprendre le modèle de la base de données afin qu'il autorise une séparation fonctionnelle entre création de compte et remplissage du profil : 
  
  1er tâche - BASE DE BONNEE / 1 personne 
