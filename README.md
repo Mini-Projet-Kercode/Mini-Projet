@@ -1,7 +1,20 @@
 # Mini-Projet
 Mino projet kercode
 
-KARL/MAITE/MELISA/NICOLAS
+KARL/MAITE/MELISSA/NICOLAS
+
+      Nous partirons des travaux proposés par Ulrich M. dans son cours MVC qui traite de l'architecture MVC avec l'objet. Les ressources sont (re)données ci-dessous.
+
+      Le projet initial propose un backend pour la lecture et la modification des profils d'utilisateurs enregistrés dans une base de données.
+
+Nous allons faire évoluer ce projet pour qu'il permette :
+
+    à un utilisateur de s'enregistrer
+    à un utilisateur enregistré de se connecter / de se déconnecter
+    à un utilisateur authentifié de créer ou de modifier son profil
+    à un utilisateur authentifié de supprimer son compte
+    
+   -------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - Vos missions :
 
@@ -26,6 +39,7 @@ KARL/MAITE/MELISA/NICOLAS
  
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
+
  MODIFIER LE FICHIER DB_SETUP.PHP (supprimer les lignes  13-27 / 40-56)
  SUPPRIMER LE FICHIER USER.PHP
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -51,7 +65,7 @@ KARL/MAITE/MELISA/NICOLAS
    * Phase Création -
   
   
-3em Tâche 
+3em Tâche ARBORESCENCE PAGE/VUE
  
  
  
