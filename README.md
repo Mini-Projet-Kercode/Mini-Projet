@@ -42,18 +42,17 @@ KARL/MAITE/MELISA/NICOLAS
   - Vérification groupé des TABLE / KEY
   
   
- 2em Tâche - ADAPTER LE (OU LES) MODELE(S) / 4 personne 
+2em Tâche - ADAPTER LE (OU LES) MODELE(S) / 4 personne 
   
-    repérer les modification à effectuer pour la connection à la DB / les modification à effectuer*
+   * repérer les modification à effectuer pour la connection à la DB / les modification à effectuer*
   
-    Phase Modification - 
+   * Phase Modification - 
   
-    Phase Création -
+   * Phase Création -
   
   
 3em Tâche 
  
  
  
- -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- 
+ -------------------------------------------------------------------------------------------------------------------------------------------------------------
