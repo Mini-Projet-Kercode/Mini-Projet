@@ -74,5 +74,11 @@ Nous allons faire évoluer ce projet pour qu'il permette :
 3em Tâche ARBORESCENCE PAGE/VUE
  
  
+ * ARBORESCENCE PAGE - 
+      - 1 Personne
+
+* ARBORESCENCE VUE - 
+      - 1 Personne
+ 
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
